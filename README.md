@@ -1,6 +1,6 @@
 ## AlIgn - Versión Pública
 
-#Este repo contiene una version publica y sanitizada del proyecto **AlIgn**, preparada para revisión técnica, demostración y evaluación por jueces o participantes externos.
+# Este repo contiene una version publica y sanitizada del proyecto **AlIgn**, preparada para revisión técnica, demostración y evaluación por jueces o participantes externos.
 
 Por seguridad, esta version no incluye:
 
