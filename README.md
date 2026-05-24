@@ -12,3 +12,4 @@ Por seguridad, esta version no incluye:
 - Dependencias instaladas
 - Archivos de build o cache
 - Datos personales o configuraciones locales
+- etc.
